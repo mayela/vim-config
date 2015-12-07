@@ -2,3 +2,4 @@ autoload/
 ftplugin/
 bundle/
 doc/
+plugin/supertab.vim
